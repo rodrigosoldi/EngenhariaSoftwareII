@@ -180,7 +180,7 @@ import javax.swing.JFrame;
              {
                 string = String.format("PARABENS!!Voce estar com o peso ideal! IMC %.2f",massa);
                 foto=1;
-             }
+             }//para commit
              else
              {
                 string = String.format("CUIDADO!!Voce estar obesa! IMC %.2f",massa);
